@@ -9,10 +9,7 @@ T Myfunc(T x, T y){
     
 }
 
-
-
 int main(){
-
 cout<<"hello world\n";
 cout<< Myfunc<int>(78,34)<<endl;
 cout<<Myfunc<int>(45.89,2.34);
